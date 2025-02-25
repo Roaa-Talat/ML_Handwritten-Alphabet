@@ -45,11 +45,14 @@ This project involves recognizing handwritten English alphabets using machine le
 ## 🤖 Machine Learning Models
 ### 📌 1. **Support Vector Machine (SVM)**
 ✔ Implemented both **Linear SVM** and **Non-Linear SVM (RBF Kernel)**.
+
 ✔ SVM provided high accuracy but required careful kernel tuning.
 
 ### 📌 2. **Logistic Regression (from Scratch)**
 ✔ Implemented one-vs-all multi-class classification.
+
 ✔ Tested different learning rates (`0.1`, `0.01`, `0.5`).
+
 ✔ Achieved high accuracy but was computationally expensive.
 
 ### 📌 3. **Neural Networks (TensorFlow-based)**
@@ -57,6 +60,7 @@ This project involves recognizing handwritten English alphabets using machine le
    - Input Layer: Flatten(28×28)
    - Hidden Layers: Fully connected (ReLU activation, Dropout)
    - Output Layer: Softmax (26 classes)
+
 ✔ Optimized model achieved **98% accuracy**.
 
 ---
