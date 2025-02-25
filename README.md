@@ -96,8 +96,3 @@ This project involves recognizing handwritten English alphabets using machine le
 🔹 Implement **CNNs (Convolutional Neural Networks)** for better feature extraction.  
 🔹 Experiment with **data augmentation** to improve generalization.  
 🔹 Optimize SVM with **different kernel functions and hyperparameters**.  
-
----
-
-### 📌 **Authors: Team Members (Cairo University)**
-
